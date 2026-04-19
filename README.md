@@ -45,8 +45,4 @@ With the explosive growth of the immersive entertainment market (Script Kill/Jub
 ### 👥 Team Advantage
 Our team consists of Mathematics undergraduates with strong backgrounds in Probability, Statistics, and Graph Theory, specialized in translating complex business logic into precise mathematical models.
 
----
 
-## 📬 Contact
-**Team**: School of Mathematical Sciences, XXX Team  
-**Date**: March 2026
